@@ -1,5 +1,4 @@
 /.gradle
-/metadata.json
 /.rvmrc
 build
 pkg/
@@ -9,3 +8,4 @@ spec/fixtures
 *.un~
 /Gemfile.lock
 /.bundle
+vendor
